@@ -1,0 +1,3 @@
+- https://bytebytego.com/guides/types-of-databases/
+- https://bytebytego.com/guides/7-must-know-strategies-to-scale-your-database/
+- https://bytebytego.com/guides/a-cheatsheet-on-database-performance/
