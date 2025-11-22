@@ -14,8 +14,8 @@ Prometheus stores data as time series: streams of timestamped values belonging t
 ```
 api_http_requests_total{method="POST", handler="/messages"}
 ```
-`api_http_requests_total` - metric
-`method="POST"`, `handler="/messages"`- labels
+- `api_http_requests_total` - metric
+- `method="POST"`, `handler="/messages"`- labels
 
 ## Metric types
 
